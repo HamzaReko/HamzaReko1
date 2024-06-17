@@ -1,4 +1,9 @@
-## Hi there 👋
+- 👋 Hi, I’m Hamza Ismail
+- 👀 I’m interested in Front End Development
+- 📫 How to reach me? 
+- Email me : hamzareko.business@gmail.com
+- My website : https://hamzareko.github.io/portoflio/
+- Looking forward to create a lot of Projects together :)
 
 <!--
 **HamzaReko/HamzaReko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
